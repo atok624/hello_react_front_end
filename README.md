@@ -4,7 +4,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
 
-  <h3><b>CAPSTONE - WEATHER APP</b></h3>
+  <h3><b>Hello React Front End</b></h3>
 
 </div>
 
