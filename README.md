@@ -33,7 +33,7 @@
 
 # 📖 Hello React Front End <a name="todo-list"></a>
 
-## [Hello Rails Back End](https://github.com/shafiuyushawu/hello_rails_back_end/tree/random_greeting)
+## [Hello Rails Front End](https://github.com/atok624/hello_react_front_end.git)
 
 > A simple react application to render random greeting using react-redux.
 
@@ -91,7 +91,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/shafiuyushawu/hello_rails_back_end.git && cd weather-app
+  git clone https://github.com/atok624/hello_react_front_end.git && cd hello_react_front_end
 ```
 
 ### Install
