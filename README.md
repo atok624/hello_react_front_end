@@ -131,11 +131,13 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Shafiu Ibn Yushawu**
+👤 **Nicholas Amissah**
 
-- GitHub: [@shafiuyushawu](https://github.com/shafiuyushawu)
-- Twitter: [@shafiuyushawu](https://twitter.com/shafiuyushawu)
-- LinkedIn: [shafiuyushawu](https://www.linkedin.com/in/shafiuyushawu/)
+- GitHub: [Nicholas Amissah](https://github.com/atok624)
+- Twitter: [Nicholas Amissah](https://twitter.com/MysticalAmissah)
+- LinkedIn: [Nicholas Amissah](https://www.linkedin.com/in/nicholas-amissah-153b09154)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,12 +165,12 @@ Feel free to check the [issues page](https://github.com/shafiuyushawu/hello_rail
 If you like this project, give it s a star :star:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- 
+
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I want to use this medium to appreciate Nelson Sakwa on Behance who inspired the UI. 
+I want to use this medium to appreciate Nelson Sakwa on Behance who inspired the UI.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
