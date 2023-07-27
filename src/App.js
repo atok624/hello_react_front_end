@@ -1,19 +1,13 @@
-import React, { useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import fetchGreeting from './redux/message/messageThunk';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './components/Home';
 
-function App() {
-  const { greeting } = useSelector((state) => state.messages.message);
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-    dispatch(fetchGreeting());
-  }, [dispatch]);
-  return (
-    <h1>
-      {greeting}
-    </h1>
-  );
-}
+const App = () => (
+  <Router>
+    <Routes>
+      <Route path="/" element={<Home />} />
+    </Routes>
+  </Router>
+);
 
 export default App;
