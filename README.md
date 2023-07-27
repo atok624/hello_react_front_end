@@ -4,7 +4,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
 
-  <h3><b>CAPSTONE - WEATHER APP</b></h3>
+  <h3><b>Hello React Front End</b></h3>
 
 </div>
 
@@ -59,6 +59,9 @@
 > Provides the feature to search for your locations with cities, countries names etc,.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Client App <a name="client-app"></a>
+
+Here is the link to the client app, you can see the source code on [Hello Rails Back-end](https://github.com/atok624/hello_rails_back_end.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
